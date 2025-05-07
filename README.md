@@ -1,0 +1,1 @@
+# menu-translation-japanese-to-english
